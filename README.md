@@ -16,14 +16,9 @@ This collection contains **20 hands-on DevOps projects** I worked on to deepen m
 
 ## 📚 Project Roadmap
 
-### Challenge 1: https://youtu.be/A95XBJFOqjw?si=h0Q0_22oy2ROqT3u
-  - https://github.com/Etmy03/DevOps-Challenge1
-
-### Challenge 2: https://m.youtube.com/watch?v=09WfkKc0x_Q&t=1430s&pp=2AGWC5ACAQ%3D%3D
-  - https://github.com/Etmy03/DevOps-Challenge2
-
-### Challenge 3: https://youtu.be/RAkMac2QgjM?si=G3byNMhZQtcf58lx
-  - https://github.com/Etmy03/DevOps-Challenge3
+- [**Challenge 1**](https://github.com/Etmy03/DevOps-Challenge1)
+- [**Challenge 2**](https://github.com/Etmy03/DevOps-Challenge2)
+- [**Challenge 3**](https://github.com/Etmy03/DevOps-Challenge3)
 
 <!--
 4. **Infrastructure as Code with Terraform**  
@@ -89,4 +84,3 @@ This repository will continue to evolve as I expand my DevOps skills. Each proje
 
 Thank you for visiting!
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
