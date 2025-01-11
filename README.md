@@ -19,64 +19,30 @@ This collection contains **20 hands-on DevOps projects** I worked on to deepen m
 - [**Challenge 1**](https://github.com/Etmy03/DevOps-Challenge1)
 - [**Challenge 2**](https://github.com/Etmy03/DevOps-Challenge2)
 - [**Challenge 3**](https://github.com/Etmy03/DevOps-Challenge3)
-
 <!--
-4. **Infrastructure as Code with Terraform**  
-   Provisioned AWS infrastructure using Terraform for repeatable deployments.
-
-5. **Monitoring with CloudWatch**  
-   Set up AWS CloudWatch to monitor EC2 instances and track metrics.
-
-6. **Build a Kubernetes Cluster**  
-   Deployed a multi-container app on a Kubernetes cluster.
-
-7. **Automated Backups with AWS Lambda**  
-   Automated S3 backups using AWS Lambda.
-
-8. **Docker Compose for Multi-Container Apps**  
-   Used Docker Compose to manage multi-service applications.
-
-9. **Serverless API with AWS API Gateway**  
-   Deployed a serverless API that integrates NBA data.
-
-10. **Logging with ELK Stack**  
-    Implemented centralized logging using Elasticsearch, Logstash, and Kibana.
-
-11. **Terraform with S3 Backend**  
-    Managed Terraform state files using S3 for collaboration.
-
-12. **Blue-Green Deployment**  
-    Implemented zero-downtime deployment strategies.
-
-13. **Secrets Management with AWS Secrets Manager**  
-    Secured application secrets using AWS Secrets Manager.
-
-14. **Ansible for Configuration Management**  
-    Automated server configuration with Ansible.
-
-15. **Continuous Testing with Jenkins**  
-    Set up Jenkins pipelines for automated testing.
-
-16. **Autoscaling with AWS EC2**  
-    Implemented auto-scaling for high availability in cloud infrastructure.
-
-17. **Kubernetes Helm Charts**  
-    Packaged Kubernetes applications using Helm.
-
-18. **Disaster Recovery Plan**  
-    Designed and implemented a disaster recovery strategy using AWS tools.
-
-19. **Cloud Security Best Practices**  
-    Applied best practices to secure cloud environments.
-
-20. **Full CI/CD Pipeline (End-to-End)**  
-    Built a complete CI/CD pipeline integrating multiple DevOps tools.
+- [**Challenge 4**](https://github.com/Etmy03/DevOps-Challenge4)
+- [**Challenge 5**](https://github.com/Etmy03/DevOps-Challenge5)
+- [**Challenge 6**](https://github.com/Etmy03/DevOps-Challenge6)
+- [**Challenge 7**](https://github.com/Etmy03/DevOps-Challenge7)
+- [**Challenge 8**](https://github.com/Etmy03/DevOps-Challenge8)
+- [**Challenge 9**](https://github.com/Etmy03/DevOps-Challenge9)
+- [**Challenge 10**](https://github.com/Etmy03/DevOps-Challenge10)
+- [**Challenge 11**](https://github.com/Etmy03/DevOps-Challenge11)
+- [**Challenge 12**](https://github.com/Etmy03/DevOps-Challenge12)
+- [**Challenge 13**](https://github.com/Etmy03/DevOps-Challenge13)
+- [**Challenge 14**](https://github.com/Etmy03/DevOps-Challenge14)
+- [**Challenge 15**](https://github.com/Etmy03/DevOps-Challenge15)
+- [**Challenge 16**](https://github.com/Etmy03/DevOps-Challenge16)
+- [**Challenge 17**](https://github.com/Etmy03/DevOps-Challenge17)
+- [**Challenge 18**](https://github.com/Etmy03/DevOps-Challenge18)
+- [**Challenge 19**](https://github.com/Etmy03/DevOps-Challenge19)
+- [**Challenge 20**](https://github.com/Etmy03/DevOps-Challenge20)
 -->
     
 
 ## 📢 Connect with Me
 I'm always looking to grow and collaborate! Feel free to connect:
-- **[LinkedIn](https://www.linkedin.com/in/your-linkedin-username)**
+- **[LinkedIn](www.linkedin.com/in/etmybarbosa)**
 - **[GitHub](https://github.com/your-username)**
 
 ## 📈 Tracking Progress
