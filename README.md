@@ -43,7 +43,7 @@ This collection contains **20 hands-on DevOps projects** I worked on to deepen m
 ## 📢 Connect with Me
 I'm always looking to grow and collaborate! Feel free to connect:
 - **[LinkedIn](https://www.linkedin.com/in/etmybarbosa)**
-- **[GitHub]([https://github.com/your-username](https://github.com/Etmy03))**
+- **[GitHub](https://github.com/Etmy03)**
 
 ## 📈 Tracking Progress
 This repository will continue to evolve as I expand my DevOps skills. Each project reflects lessons learned and new skills gained.
