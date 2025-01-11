@@ -42,7 +42,7 @@ This collection contains **20 hands-on DevOps projects** I worked on to deepen m
 
 ## 📢 Connect with Me
 I'm always looking to grow and collaborate! Feel free to connect:
-- **[LinkedIn](www.linkedin.com/in/etmybarbosa)**
+- **[LinkedIn](https://www.linkedin.com/in/etmybarbosa)**
 - **[GitHub](https://github.com/your-username)**
 
 ## 📈 Tracking Progress
