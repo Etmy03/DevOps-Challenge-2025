@@ -16,9 +16,9 @@ This collection contains **20 hands-on DevOps projects** I worked on to deepen m
 
 ## 📚 Project Roadmap
 
-- [**Challenge 1**](https://github.com/Etmy03/DevOps-Challenge1)
-- [**Challenge 2**](https://github.com/Etmy03/DevOps-Challenge2)
-- [**Challenge 3**](https://github.com/Etmy03/DevOps-Challenge3)
+- [Challenge 1](https://github.com/Etmy03/DevOps-Challenge1)
+- [Challenge 2](https://github.com/Etmy03/DevOps-Challenge2)
+- [Challenge 3](https://github.com/Etmy03/DevOps-Challenge3)
 <!--
 - [**Challenge 4**](https://github.com/Etmy03/DevOps-Challenge4)
 - [**Challenge 5**](https://github.com/Etmy03/DevOps-Challenge5)
