@@ -88,3 +88,5 @@ I'm always looking to grow and collaborate! Feel free to connect:
 This repository will continue to evolve as I expand my DevOps skills. Each project reflects lessons learned and new skills gained.
 
 Thank you for visiting!
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
